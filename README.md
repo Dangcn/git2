@@ -1,2 +1,2 @@
-# git2
-git study
+# python3 learn
+
