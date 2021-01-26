@@ -1,4 +1,7 @@
-# 没有参数的函数多进程代码
+'''
+    多进程
+    没有带有参数的函数多进程代码
+'''
 import time
 import multiprocessing
 
